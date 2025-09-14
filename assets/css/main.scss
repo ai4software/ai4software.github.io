@@ -1,0 +1,14 @@
+---
+---
+
+/* (Opcional) variables antes del tema
+$max-width: 1400px;
+$content-width: 1000px;
+*/
+
+/* 1) skin y tema */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* 2) sus overrides, al final, para ganar en la cascada */
+@import "overrides";   /* buscará assets/css/_overrides.scss */
