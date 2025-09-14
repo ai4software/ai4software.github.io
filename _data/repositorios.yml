@@ -26,3 +26,46 @@
   - nlp
   homepage: ''
   docs_url: ''
+- nombre: MUSE
+  nodo_id: US
+  url: https://github.com/Trust4AI/MUSE
+  descripcion: Herramienta que genera entradas de prueba siguiendo un enfoque de metamorphic testing con LLMs, para la detección de sesgos en los propios modelos de lenguaje.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - TypeScript
+  topics:
+  - test-case-generation
+  - bias-detection
+  - llms
+  - metamorphic-testing
+  homepage: 'https://github.com/Trust4AI/MUSE'
+  docs_url: 'https://github.com/Trust4AI/MUSE/blob/main/README.md'
+- nombre: GENIE
+  nodo_id: US
+  url: https://github.com/Trust4AI/GENIE
+  descripcion: Herramienta que facilita la gestión y el envío de solicitudes a LLMs, ya sea a modelos open-source a través de Ollama o a servicios comerciales como OpenAI y Gemini.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - TypeScript
+  topics:
+  - llms
+  - model-execution
+  homepage: 'https://github.com/Trust4AI/GENIE'
+  docs_url: 'https://github.com/Trust4AI/GENIE/blob/main/README.md'
+- nombre: GUARD-ME
+  nodo_id: US
+  url: https://github.com/Trust4AI/GUARD-ME
+  descripcion: Herramienta que analiza y evalúa las respuestas de LLMs para identificar posibles sesgos, siguiendo un enfoque de metamorphic testing y utilizando múltiples modelos como jueces de salida.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - TypeScript
+  topics:
+  - test-case-evaluation
+  - bias-detection
+  - llms
+  - metamorphic-testing
+  homepage: 'https://github.com/Trust4AI/GUARD-ME'
+  docs_url: 'https://github.com/Trust4AI/GUARD-ME/blob/main/README.md'
