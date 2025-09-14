@@ -1,210 +1,195 @@
-- id: UNI01
-  nombre: Universidad 01
-  siglas: U01
+- id: UAL
+  nombre: Universidad de Almería
+  siglas: UAL
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI01.png
+  ciudad: Almería
+  web: https://www.ual.es
+  logo: /assets/img/universidades/UAL.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI02
-  nombre: Universidad 02
-  siglas: U02
+    nombre: "Dr. Antonio Jesús Fernández García"
+    email: ""
+  lineas: ["IA", "Ingeniería de Software"]
+  grupo: "Informática Aplicada, ACG-TIC211"
+  github_org: ""
+- id: UAM
+  nombre: Universidad Autónoma de Madrid
+  siglas: UAM
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI02.png
+  ciudad: Madrid
+  web: https://www.uam.es
+  logo: /assets/img/universidades/UAM.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI03
-  nombre: Universidad 03
-  siglas: U03
+    nombre: "Dra. Esther Guerra Sánchez"
+    email: ""
+  lineas: ["IA", "Ingeniería de Software"]
+  grupo: "Modelado e Ingeniería del Software"
+  github_org: ""
+- id: UCA
+  nombre: Universidad de Cádiz
+  siglas: UCA
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI03.png
+  ciudad: Cádiz
+  web: https://www.uca.es
+  logo: /assets/img/universidades/UCA.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI04
-  nombre: Universidad 04
-  siglas: U04
+    nombre: "Dra. Inmaculada Medina Bulo"
+    email: ""
+  lineas: ["IA", "Ingeniería de Software", "Testing"]
+  grupo: "UCASE de Ingeniería del Software"
+  github_org: ""
+- id: UCM
+  nombre: Universidad Complutense de Madrid
+  siglas: UCM
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI04.png
+  ciudad: Madrid
+  web: https://www.ucm.es
+  logo: /assets/img/universidades/UCM.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI05
-  nombre: Universidad 05
-  siglas: U05
+    nombre: "Dra. M. Mercedes García Merayo"
+    email: ""
+  lineas: ["IA", "Testing", "Metamórfico"]
+  grupo: "Design and Testing of Reliable Systems"
+  github_org: ""
+- id: UCO
+  nombre: Universidad de Córdoba
+  siglas: UCO
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI05.png
+  ciudad: Córdoba
+  web: https://www.uco.es
+  logo: /assets/img/universidades/UCO.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI06
-  nombre: Universidad 06
-  siglas: U06
+    nombre: "Dr. José Raúl Romero Salguero (Coordinador)"
+    email: ""
+  lineas: ["IA", "AutoML", "XAI", "SBSE"]
+  grupo: "Knowledge Discovery and Intelligent Systems"
+  github_org: ""
+- id: UEX
+  nombre: Universidad de Extremadura
+  siglas: UEX
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI06.png
+  ciudad: "Badajoz / Cáceres"
+  web: https://www.unex.es
+  logo: /assets/img/universidades/UEX.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI07
-  nombre: Universidad 07
-  siglas: U07
+    nombre: "Dr. José Manuel García Alonso"
+    email: ""
+  lineas: ["IA", "Sistemas Pervasivos", "Cloud Continuum", "QA"]
+  grupo: "Quercus Software Engineering"
+  github_org: ""
+- id: UMA
+  nombre: Universidad de Málaga
+  siglas: UMA
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI07.png
+  ciudad: Málaga
+  web: https://www.uma.es
+  logo: /assets/img/universidades/UMA.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI08
-  nombre: Universidad 08
-  siglas: U08
+    nombre: "Dr. José Francisco Chicano García"
+    email: ""
+  lineas: ["IA", "Optimización", "SE4AI/AI4SE"]
+  grupo: "Networking and Emerging Optimization (NEO)"
+  github_org: ""
+- id: MU
+  nombre: Mondragon Unibertsitatea
+  siglas: MU
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI08.png
+  ciudad: "Arrasate-Mondragón (Gipuzkoa)"
+  web: https://www.mondragon.edu
+  logo: /assets/img/universidades/MU.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI09
-  nombre: Universidad 09
-  siglas: U09
+    nombre: "Dr. Aitor Arrieta Marcos"
+    email: ""
+  lineas: ["AI4SE", "SE4AI", "Testing", "LLMs"]
+  grupo: "MU@SSE – Software and Systems Engineering"
+  github_org: ""
+- id: UMU
+  nombre: Universidad de Murcia
+  siglas: UMU
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI09.png
+  ciudad: Murcia
+  web: https://www.um.es
+  logo: /assets/img/universidades/UMU.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI10
-  nombre: Universidad 10
-  siglas: U10
+    nombre: "Dr. Jesús Sánchez Cuadrado"
+    email: ""
+  lineas: ["IA", "Modelado", "Datasets", "Recomendadores"]
+  grupo: "Models-Lab"
+  github_org: ""
+- id: UOC
+  nombre: Universitat Oberta de Catalunya
+  siglas: UOC
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI10.png
+  ciudad: Barcelona
+  web: https://www.uoc.edu
+  logo: /assets/img/universidades/UOC.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI11
-  nombre: Universidad 11
-  siglas: U11
+    nombre: "Dr. Javier Luis Cánovas Izquierdo"
+    email: ""
+  lineas: ["Model-Driven", "Formales", "Análisis de Software", "Ética de IA"]
+  grupo: "SOM Research Lab"
+  github_org: ""
+- id: UPC
+  nombre: Universitat Politècnica de Catalunya
+  siglas: UPC
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI11.png
+  ciudad: Barcelona
+  web: https://www.upc.edu
+  logo: /assets/img/universidades/UPC.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI12
-  nombre: Universidad 12
-  siglas: U12
+    nombre: "Dr. Jordi Marco Gómez"
+    email: ""
+  lineas: ["SE4AI", "AI4SE", "Eficiencia/Energía", "Móviles", "Código"]
+  grupo: "Ingeniería del Software y de los Servicios (GESSI)"
+  github_org: ""
+- id: UPV
+  nombre: Universitat Politècnica de València
+  siglas: UPV
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI12.png
+  ciudad: València
+  web: https://www.upv.es
+  logo: /assets/img/universidades/UPV.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI13
-  nombre: Universidad 13
-  siglas: U13
+    nombre: "Dr. Óscar Pastor López"
+    email: ""
+  lineas: ["IA", "Varios grupos VRAIN/PROS"]
+  grupo: "PROS – Instituto de investigación VRAIN"
+  github_org: ""
+- id: URJC
+  nombre: Universidad Rey Juan Carlos
+  siglas: URJC
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI13.png
+  ciudad: "Móstoles / Alcorcón (Madrid)"
+  web: https://www.urjc.es
+  logo: /assets/img/universidades/URJC.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI14
-  nombre: Universidad 14
-  siglas: U14
+    nombre: "Dr. Gregorio Robles Martínez"
+    email: ""
+  lineas: ["IA", "Desarrollo de Software", "OSS"]
+  grupo: "Research group on Software Development"
+  github_org: ""
+- id: USJ
+  nombre: Universidad San Jorge
+  siglas: USJ
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI14.png
+  ciudad: Zaragoza
+  web: https://www.usj.es
+  logo: /assets/img/universidades/USJ.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
-- id: UNI15
-  nombre: Universidad 15
-  siglas: U15
+    nombre: "Dr. Jaime Font Burdeus"
+    email: ""
+  lineas: ["IA", "SVIT"]
+  grupo: "SVIT Research Group"
+  github_org: ""
+- id: US
+  nombre: Universidad de Sevilla
+  siglas: US
   pais: España
-  ciudad: Por completar
-  web: https://example.org
-  logo: /assets/img/universidades/UNI15.png
+  ciudad: Sevilla
+  web: https://www.us.es
+  logo: /assets/img/universidades/US.png
   contacto:
-    nombre: Coordinador/a
-    email: coord@example.org
-  lineas:
-  - IA
-  - Ingeniería de Software
-  github_org: https://github.com/ejemplo-org
+    nombre: "Dr. Sergio Segura Rueda"
+    email: ""
+  lineas: ["IA", "Ingeniería de Software", "Calidad"]
+  grupo: "Unidad de Excelencia SCORE"
+  github_org: ""
