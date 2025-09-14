@@ -13,4 +13,4 @@ header:
       url: "/herramientas/"
 ---
 
-La **Red** reúne a **15 universidades**. Este sitio indexa sus organizaciones de GitHub y repositorios destacados.
+La [**Red**](https://www.uco.es/ai4software/) reúne a [**15 universidades**](https://www.uco.es/ai4software/sobre-la-red/). Este sitio indexa sus organizaciones de GitHub y repositorios destacados.
