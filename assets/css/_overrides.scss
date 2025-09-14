@@ -54,3 +54,9 @@ article.grid__item,
 .archive__item {
   box-sizing: content-box !important;
 }
+
+.tools-page article, 
+.tools-page .archive__item { box-sizing: content-box !important; }
+
+.nodes-page article, 
+.nodes-page .archive__item { box-sizing: content-box !important; }

@@ -1,7 +1,7 @@
 ---
 title: "Universidades de la Red"
 permalink: /universidades/
-classes: full      # o 'wide' si prefiere algo menos extremo
+classes: full nodes-page      # o 'wide' si prefiere algo menos extremo
 toc: false
 ---
 

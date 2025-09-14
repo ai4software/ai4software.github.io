@@ -1,7 +1,7 @@
 ---
 title: "Herramientas y Repositorios"
 permalink: /herramientas/
-classes: full
+classes: full tools-page
 toc: false
 ---
 
