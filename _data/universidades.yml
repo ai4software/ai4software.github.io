@@ -4,7 +4,7 @@
   pais: España
   ciudad: Almería
   web: https://www.ual.es
-  logo: /assets/img/universidades/UAL.png
+  logo: /assets/img/universidades/ual.png
   contacto:
     nombre: "Dr. Antonio Jesús Fernández García"
     email: ""
@@ -17,7 +17,7 @@
   pais: España
   ciudad: Madrid
   web: https://www.uam.es
-  logo: /assets/img/universidades/UAM.png
+  logo: /assets/img/universidades/uam.png
   contacto:
     nombre: "Dra. Esther Guerra Sánchez"
     email: ""
@@ -30,7 +30,7 @@
   pais: España
   ciudad: Cádiz
   web: https://www.uca.es
-  logo: /assets/img/universidades/UCA.png
+  logo: /assets/img/universidades/uca.png
   contacto:
     nombre: "Dra. Inmaculada Medina Bulo"
     email: ""
@@ -43,7 +43,7 @@
   pais: España
   ciudad: Madrid
   web: https://www.ucm.es
-  logo: /assets/img/universidades/UCM.png
+  logo: /assets/img/universidades/ucm.png
   contacto:
     nombre: "Dra. M. Mercedes García Merayo"
     email: ""
@@ -56,7 +56,7 @@
   pais: España
   ciudad: Córdoba
   web: https://www.uco.es
-  logo: /assets/img/universidades/UCO.png
+  logo: /assets/img/universidades/uco.png
   contacto:
     nombre: "Dr. José Raúl Romero Salguero (Coordinador)"
     email: ""
@@ -69,7 +69,7 @@
   pais: España
   ciudad: "Badajoz / Cáceres"
   web: https://www.unex.es
-  logo: /assets/img/universidades/UEX.png
+  logo: /assets/img/universidades/uex.png
   contacto:
     nombre: "Dr. José Manuel García Alonso"
     email: ""
@@ -82,7 +82,7 @@
   pais: España
   ciudad: Málaga
   web: https://www.uma.es
-  logo: /assets/img/universidades/UMA.png
+  logo: /assets/img/universidades/uma.png
   contacto:
     nombre: "Dr. José Francisco Chicano García"
     email: ""
@@ -95,7 +95,7 @@
   pais: España
   ciudad: "Arrasate-Mondragón (Gipuzkoa)"
   web: https://www.mondragon.edu
-  logo: /assets/img/universidades/MU.png
+  logo: /assets/img/universidades/mondragon.png
   contacto:
     nombre: "Dr. Aitor Arrieta Marcos"
     email: ""
@@ -108,7 +108,7 @@
   pais: España
   ciudad: Murcia
   web: https://www.um.es
-  logo: /assets/img/universidades/UMU.png
+  logo: /assets/img/universidades/um.png
   contacto:
     nombre: "Dr. Jesús Sánchez Cuadrado"
     email: ""
@@ -121,7 +121,7 @@
   pais: España
   ciudad: Barcelona
   web: https://www.uoc.edu
-  logo: /assets/img/universidades/UOC.png
+  logo: /assets/img/universidades/uoc.png
   contacto:
     nombre: "Dr. Javier Luis Cánovas Izquierdo"
     email: ""
@@ -134,7 +134,7 @@
   pais: España
   ciudad: Barcelona
   web: https://www.upc.edu
-  logo: /assets/img/universidades/UPC.png
+  logo: /assets/img/universidades/upc.png
   contacto:
     nombre: "Dr. Jordi Marco Gómez"
     email: ""
@@ -147,7 +147,7 @@
   pais: España
   ciudad: València
   web: https://www.upv.es
-  logo: /assets/img/universidades/UPV.png
+  logo: /assets/img/universidades/upv.png
   contacto:
     nombre: "Dr. Óscar Pastor López"
     email: ""
@@ -160,7 +160,7 @@
   pais: España
   ciudad: "Móstoles / Alcorcón (Madrid)"
   web: https://www.urjc.es
-  logo: /assets/img/universidades/URJC.png
+  logo: /assets/img/universidades/urjc.png
   contacto:
     nombre: "Dr. Gregorio Robles Martínez"
     email: ""
@@ -173,7 +173,7 @@
   pais: España
   ciudad: Zaragoza
   web: https://www.usj.es
-  logo: /assets/img/universidades/USJ.png
+  logo: /assets/img/universidades/usj.png
   contacto:
     nombre: "Dr. Jaime Font Burdeus"
     email: ""
@@ -186,7 +186,7 @@
   pais: España
   ciudad: Sevilla
   web: https://www.us.es
-  logo: /assets/img/universidades/US.png
+  logo: /assets/img/universidades/us.png
   contacto:
     nombre: "Dr. Sergio Segura Rueda"
     email: ""
