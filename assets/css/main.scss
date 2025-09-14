@@ -1,10 +1,10 @@
 ---
 ---
 
-/* (Opcional) variables antes del tema
-$max-width: 1400px;
-$content-width: 1000px;
-*/
+
+$max-width: 1980px;
+$content-width: 1980px;
+
 
 /* 1) skin y tema */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
