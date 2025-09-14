@@ -1,0 +1,10 @@
+/* Ensanchar el contenedor principal sin recompilar variables */
+.initial-content,
+.page,
+.page__inner-wrap {
+  max-width: 1400px;
+}
+
+@media (min-width: 1200px) {
+  .entries-grid .grid__item { flex: 0 0 25%; max-width: 25%; }
+}
