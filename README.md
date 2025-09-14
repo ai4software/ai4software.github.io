@@ -1,6 +1,6 @@
 # Sitio de la Red: GitHub Pages
 
-Este repositorio contiene el **sitio de la Red de Investigación en IA aplicada al Proceso de Desarrollo Software**.
+Este repositorio contiene el sitio de las herramientas y repositorios de la **Red de Investigación en IA aplicada al Proceso de Desarrollo Software**.
 
 ## Publicación
 **Sitio de organización:** nombre del repo `ai4softwrae.github.io` → Settings → Pages → `main` / root.  
