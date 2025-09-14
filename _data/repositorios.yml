@@ -1,5 +1,6 @@
 - nombre: MUSE
   nodo_id: US
+  logo: https://github.com/Trust4AI/MUSE/raw/assets/MUSE_logo.png?raw=true
   url: https://github.com/Trust4AI/MUSE
   descripcion: Herramienta que genera entradas de prueba siguiendo un enfoque de metamorphic testing con LLMs, para la detección de sesgos en los propios modelos de lenguaje.
   tipo: herramienta
@@ -16,6 +17,7 @@
 - nombre: GENIE
   nodo_id: US
   url: https://github.com/Trust4AI/GENIE
+  logo: https://github.com/Trust4AI/GENIE/raw/assets/GENIE_logo.png?raw=true
   descripcion: Herramienta que facilita la gestión y el envío de solicitudes a LLMs, ya sea a modelos open-source a través de Ollama o a servicios comerciales como OpenAI y Gemini.
   tipo: herramienta
   licencia: GPL-3.0
@@ -29,6 +31,7 @@
 - nombre: GUARD-ME
   nodo_id: US
   url: https://github.com/Trust4AI/GUARD-ME
+  logo: https://github.com/Trust4AI/GUARD-ME/raw/assets/GUARD-ME_logo.png?raw=true
   descripcion: Herramienta que analiza y evalúa las respuestas de LLMs para identificar posibles sesgos, siguiendo un enfoque de metamorphic testing y utilizando múltiples modelos como jueces de salida.
   tipo: herramienta
   licencia: GPL-3.0
