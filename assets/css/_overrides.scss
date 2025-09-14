@@ -1,0 +1,49 @@
+/* Cuadrícula más ancha y respirable */
+.tools-grid .grid__wrapper { gap: 1rem; }
+
+.tool-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.tool-card__media {
+  height: 84px;                 /* reserva un “carril” para el logo */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: .5rem;
+}
+.tool-card__media img {
+  max-height: 64px;             /* controla el tamaño del logo */
+  max-width: 100%;
+  object-fit: contain;          /* evita deformaciones */
+}
+
+/* Mejor legibilidad de extractos */
+.archive__item-excerpt { line-height: 1.55; margin: .25rem 0 1rem; }
+
+/* Botonera al pie de la tarjeta */
+.tool-card__links {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+
+/* Columnas por breakpoint (aprovecha pantallas grandes) */
+@media (min-width: 992px) {
+  .entries-grid .grid__item { flex: 0 0 33.333%; max-width: 33.333%; }  /* 3 col */
+}
+@media (min-width: 1280px) {
+  .entries-grid .grid__item { flex: 0 0 25%; max-width: 25%; }          /* 4 col */
+}
+@media (min-width: 1600px) {
+  .entries-grid .grid__item { flex: 0 0 20%; max-width: 20%; }          /* 5 col */
+}
+@media (min-width: 1920px) {
+  .entries-grid .grid__item { flex: 0 0 16.666%; max-width: 16.666%; }  /* 6 col */
+}
+
+.tool-card { border: 1px solid rgba(0,0,0,.06); border-radius: .75rem; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
