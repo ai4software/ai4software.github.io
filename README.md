@@ -1,4 +1,4 @@
-# Sitio de la Red: GitHub Pages
+# Sitio de las herramientas y repostirios de la Red AI4Software: Creado con GitHub Pages
 
 Este repositorio contiene el sitio de las herramientas y repositorios de la **Red de Investigación en IA aplicada al Proceso de Desarrollo Software**.
 
