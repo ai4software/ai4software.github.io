@@ -21,12 +21,12 @@ navigation:
     url: /herramientas/
 
 minimal_mistakes_skin: default
-logo: /assets/img/logo-avatar.jpg
+logo: /assets/img/logo-avatar.jpeg
 search: true
 
 author:
   name: "Red IA4Software"
-  avatar: /assets/img/logo-avatar.jpg
+  avatar: /assets/img/logo-avatar.jpeg
 
 collections:
   pages:
