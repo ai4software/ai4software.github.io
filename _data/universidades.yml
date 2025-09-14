@@ -1,0 +1,210 @@
+- id: UNI01
+  nombre: Universidad 01
+  siglas: U01
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI01.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI02
+  nombre: Universidad 02
+  siglas: U02
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI02.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI03
+  nombre: Universidad 03
+  siglas: U03
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI03.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI04
+  nombre: Universidad 04
+  siglas: U04
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI04.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI05
+  nombre: Universidad 05
+  siglas: U05
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI05.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI06
+  nombre: Universidad 06
+  siglas: U06
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI06.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI07
+  nombre: Universidad 07
+  siglas: U07
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI07.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI08
+  nombre: Universidad 08
+  siglas: U08
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI08.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI09
+  nombre: Universidad 09
+  siglas: U09
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI09.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI10
+  nombre: Universidad 10
+  siglas: U10
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI10.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI11
+  nombre: Universidad 11
+  siglas: U11
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI11.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI12
+  nombre: Universidad 12
+  siglas: U12
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI12.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI13
+  nombre: Universidad 13
+  siglas: U13
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI13.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI14
+  nombre: Universidad 14
+  siglas: U14
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI14.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
+- id: UNI15
+  nombre: Universidad 15
+  siglas: U15
+  pais: España
+  ciudad: Por completar
+  web: https://example.org
+  logo: /assets/img/universidades/UNI15.png
+  contacto:
+    nombre: Coordinador/a
+    email: coord@example.org
+  lineas:
+  - IA
+  - Ingeniería de Software
+  github_org: https://github.com/ejemplo-org
