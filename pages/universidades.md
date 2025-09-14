@@ -1,7 +1,8 @@
 ---
 title: "Universidades de la Red"
 permalink: /universidades/
-classes: full-bleed
+classes: full      # o 'wide' si prefiere algo menos extremo
+toc: false
 ---
 
 {% assign nodos = site.data.universidades %}

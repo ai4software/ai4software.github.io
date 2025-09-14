@@ -1,7 +1,8 @@
 ---
 title: "Herramientas y Repositorios"
 permalink: /herramientas/
-classes: full-bleed
+classes: full      # o 'wide' si prefiere algo menos extremo
+toc: false
 ---
 
 <p>Listado generado desde <code>_data/repositorios.yml</code>.</p>
