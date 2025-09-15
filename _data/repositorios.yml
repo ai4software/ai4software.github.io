@@ -59,3 +59,19 @@
   - chatbots
   homepage: 'https://github.com/satori-chatbots/taskyto'
   docs_url: 'https://dl.acm.org/doi/abs/10.1145/3640794.3665538'
+- nombre: BabiaXR
+  nodo_id: URJC
+  url: https://github.com/babiaxr/aframe-babia-components
+  logo: https://babiaxr.gitlab.io/img/icon.png
+  descripcion: Un conjunto de herramientas para la visualización de datos 3D/VR en el navegador.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - JavaScript
+  topics:
+  - data visualization
+  - city chart
+  - llms
+  - chatbots
+  homepage: 'https://babiaxr.gitlab.io/'
+  docs_url: 'https://babiaxr.gitlab.io/tutorials'
