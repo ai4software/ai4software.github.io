@@ -62,7 +62,7 @@
 - nombre: BabiaXR
   nodo_id: URJC
   url: https://github.com/babiaxr/aframe-babia-components
-  logo: https://babiaxr.gitlab.io/img/icon.png
+  logo: /assets/img/BabiaLogoBW.png
   descripcion: Un conjunto de herramientas para la visualización de datos 3D/VR en el navegador.
   tipo: herramienta
   licencia: GPL-3.0
