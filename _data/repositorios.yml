@@ -44,3 +44,18 @@
   - metamorphic-testing
   homepage: 'https://github.com/Trust4AI/GUARD-ME'
   docs_url: 'https://github.com/Trust4AI/GUARD-ME/blob/main/README.md'
+- nombre: Taskyto
+  nodo_id: UM
+  url: https://github.com/satori-chatbots/taskyto  
+  descripcion: Lenguaje y librería pare el desarrollo de chatbots.
+  tipo: herramienta
+  licencia: Undefined
+  lenguajes:
+  - Python
+  topics:
+  - library
+  - domain specific language
+  - llms
+  - chatbots
+  homepage: 'https://github.com/satori-chatbots/taskyto'
+  docs_url: 'https://dl.acm.org/doi/abs/10.1145/3640794.3665538'
