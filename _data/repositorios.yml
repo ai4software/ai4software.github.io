@@ -75,3 +75,17 @@
   - chatbots
   homepage: 'https://babiaxr.gitlab.io/'
   docs_url: 'https://babiaxr.gitlab.io/tutorials'
+- nombre: SoftwareCognitiveComplexityReducer
+  nodo_id: UMA
+  url: https://github.com/rsain/SoftwareCognitiveComplexityReducer  
+  descripcion: Plugin de Eclipse para la reducción de la complejidad cognitiva de métodos Java.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - Java
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/rsain/SoftwareCognitiveComplexityReducer'
+  docs_url: 'https://github.com/rsain/SoftwareCognitiveComplexityReducer/blob/main/README.md'
