@@ -75,3 +75,43 @@
   - chatbots
   homepage: 'https://babiaxr.gitlab.io/'
   docs_url: 'https://babiaxr.gitlab.io/tutorials'
+- nombre: EthOSS
+  nodo_id: UOC
+  url: https://github.com/SOM-Research/EthOSS
+  descripcion: Un framework diseñado para evaluar e informar sobre el comportamiento ético dentro de las comunidades de software de código abierto, aprovechando los datos extraídos de repositorios de GitHub.
+  tipo: herramienta
+  licencia: CC-BY-SA
+  lenguajes:
+  - Python
+  topics:
+  - data mining
+  - ethical issues
+  - open source
+  homepage: 'https://github.com/SOM-Research/EthOSS'
+  docs_url: 'https://github.com/SOM-Research/EthOSS'
+- nombre: LangBiTe
+  nodo_id: UOC
+  url: https://github.com/SOM-Research/langbite
+  descripcion: Un framework diseñado para detectar y evaluar sesgos éticos y discriminación en LLMs.
+  tipo: herramienta
+  licencia: MIT
+  lenguajes:
+  - Python
+  topics:
+  - llm
+  - ethical bias
+  homepage: 'https://github.com/SOM-Research/langbite'
+  docs_url: 'https://github.com/SOM-Research/langbite'
+- nombre: ImageBiTe
+  nodo_id: UOC
+  url: https://github.com/SOM-Research/imagebite
+  descripcion: Un framework para evaluar sesgos de representación en modelos de texto a imagen.
+  tipo: herramienta
+  licencia: MIT
+  lenguajes:
+  - Python
+  topics:
+  - text to image
+  - ethical bias
+  homepage: 'https://github.com/SOM-Research/imagebite'
+  docs_url: 'https://github.com/SOM-Research/imagebite'
