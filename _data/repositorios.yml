@@ -90,4 +90,17 @@
   - web applications
   homepage: 'https://github.com/CarlaFernandez12/accessibility'
   docs_url: 'https://github.com/CarlaFernandez12/accessibility/blob/main/README.md'
+- nombre: ChatUniTest variant (maven plugin)
+  nodo_id: UMA
+  url: https://github.com/NEO-Research-Group/chatunitest-maven-plugin
+  description: Plugin de maven para generación autmática de casos de prueba basados en LLMs
+  tipo: plugin de maven
+  licencia: GPL-3.0
+  lenguajes:
+  - java
+  topics:
+  - test case generation
+  - LLMs
+  homepage: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin'
+  docs_url: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin/blob/main/README.md'  
   
