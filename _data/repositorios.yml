@@ -104,3 +104,17 @@
   - refactoring
   homepage: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional'
   docs_url: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional/blob/main/README.md'
+- nombre: automated-refactoring-java-code
+  nodo_id: UMA
+  url: https://github.com/andyjuarez-dev/automated-refactoring-java-code  
+  descripcion: Herramienta de refactorización automática para código Java construida sobre la API JDT de Eclipse. El enfoque propuesto transforma estructuras de control que contienen sentencias break y continue dentro de diferentes tipos de bucles en construcciones semánticamente equivalentes que evitan su uso explícito.
+  tipo: Plugin de Eclipse
+  licencia: MIT
+  lenguajes:
+  - Java
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
+  docs_url: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
