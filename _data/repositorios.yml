@@ -103,4 +103,16 @@
   - LLMs
   homepage: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin'
   docs_url: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin/blob/main/README.md'  
-  
+- nombre: Refactorización con SLMs
+  nodo_id: UMA
+  url: https://github.com/NEO-Research-Group/slm-refactorization
+  description: Herramienta para eliminación de issues de SonarQube usando Small Langauge Models.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - python
+  topics:
+  - refactoring
+  - SLMs
+  homepage: 'https://github.com/NEO-Research-Group/slm-refactorization'
+  docs_url: 'https://github.com/NEO-Research-Group/slm-refactorization/blob/main/README.md'   
