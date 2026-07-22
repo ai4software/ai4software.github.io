@@ -75,3 +75,19 @@
   - chatbots
   homepage: 'https://babiaxr.gitlab.io/'
   docs_url: 'https://babiaxr.gitlab.io/tutorials'
+- nombre: AccessibilityRemediation
+  nodo_id: UMA
+  url: https://github.com/CarlaFernandez12/accessibility
+  description: Herramienta para remediación de problemas de accesibilidad Web en aplicaciones Web estáticas y aplicaciones Angular y React.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - python
+  - javascript
+  topics:
+  - accesibility
+  - WCAG
+  - web applications
+  homepage: 'https://github.com/CarlaFernandez12/accessibility'
+  docs_url: 'https://github.com/CarlaFernandez12/accessibility/blob/main/README.md'
+  
