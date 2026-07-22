@@ -118,3 +118,17 @@
   - refactoring
   homepage: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
   docs_url: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
+- nombre: CCR-Refactorer
+  nodo_id: UMA
+  url: https://github.com/MVCx9/Refactorer  
+  descripcion: Plugin de Eclipse para la reducción de la complejidad cognitiva de código fuente mediante operaciones del tipo Extract Method.
+  tipo: Plugin de Eclipse
+  licencia: MIT
+  lenguajes:
+  - Java
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/MVCx9/Refactorer'
+  docs_url: 'https://github.com/MVCx9/Refactorer/blob/main/README.md'
