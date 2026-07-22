@@ -89,3 +89,18 @@
   - refactoring
   homepage: 'https://github.com/anhe2p9/MOILP-ASCCR'
   docs_url: 'https://github.com/anhe2p9/MOILP-ASCCR/blob/main/README.md'
+- nombre: CC-reduction-by-merging-nested-conditional
+  nodo_id: UMA
+  url: https://github.com/alers16/CC-reduction-by-merging-nested-conditional  
+  descripcion: Prototipo software que detecta y combina sentencias condicionales anidadas en Java para reducir la complejidad cognitiva del código fuente
+  tipo: herramienta
+  licencia: MIT
+  lenguajes:
+  - Java
+  - PowerShell
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional'
+  docs_url: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional/blob/main/README.md'
