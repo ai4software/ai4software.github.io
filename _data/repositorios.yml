@@ -45,7 +45,7 @@
   homepage: 'https://github.com/Trust4AI/GUARD-ME'
   docs_url: 'https://github.com/Trust4AI/GUARD-ME/blob/main/README.md'
 - nombre: Taskyto
-  nodo_id: UM
+  nodo_id: UMU
   url: https://github.com/satori-chatbots/taskyto  
   descripcion: Lenguaje y librería pare el desarrollo de chatbots.
   tipo: herramienta
@@ -119,7 +119,7 @@
 - nombre: AccessibilityRemediation
   nodo_id: UMA
   url: https://github.com/CarlaFernandez12/accessibility
-  description: Herramienta para remediación de problemas de accesibilidad Web en aplicaciones Web estáticas y aplicaciones Angular y React.
+  descripcion: Herramienta para remediación de problemas de accesibilidad Web en aplicaciones Web estáticas y aplicaciones Angular y React.
   tipo: herramienta
   licencia: GPL-3.0
   lenguajes:
@@ -134,7 +134,7 @@
 - nombre: ChatUniTest variant (maven plugin)
   nodo_id: UMA
   url: https://github.com/NEO-Research-Group/chatunitest-maven-plugin
-  description: Plugin de maven para generación autmática de casos de prueba basados en LLMs
+  descripcion: Plugin de maven para generación autmática de casos de prueba basados en LLMs
   tipo: plugin de maven
   licencia: GPL-3.0
   lenguajes:
@@ -147,7 +147,7 @@
 - nombre: Refactorización con SLMs
   nodo_id: UMA
   url: https://github.com/NEO-Research-Group/slm-refactorization
-  description: Herramienta para eliminación de issues de SonarQube usando Small Langauge Models.
+  descripcion: Herramienta para eliminación de issues de SonarQube usando Small Langauge Models.
   tipo: herramienta
   licencia: GPL-3.0
   lenguajes:
@@ -194,6 +194,11 @@
   tipo: Plugin de Eclipse
   licencia: MIT
   lenguajes:
+  - Java
+  topics:
+  - refactoring
+  homepage: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
+  docs_url: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code/blob/main/README.md'
 - nombre: SoftwareCognitiveComplexityReducer
   nodo_id: UMA
   url: https://github.com/rsain/SoftwareCognitiveComplexityReducer  
