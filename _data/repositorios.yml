@@ -197,8 +197,8 @@
   - Java
   topics:
   - refactoring
-  homepage: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
-  docs_url: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code/blob/main/README.md'
+  homepage: 'https://github.com/NEO-Research-Group/automated-refactoring-java-code'
+  docs_url: 'https://github.com/NEO-Research-Group/automated-refactoring-java-code/blob/main/README.md'
 - nombre: SoftwareCognitiveComplexityReducer
   nodo_id: UMA
   url: https://github.com/rsain/SoftwareCognitiveComplexityReducer  
