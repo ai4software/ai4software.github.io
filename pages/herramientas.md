@@ -23,7 +23,7 @@ toc: false
               <img src="https://www.google.com/s2/favicons?domain={{ r.homepage | uri_escape }}&sz=128"
                    alt="Favicon de {{ r.nombre }}" loading="lazy">
             {% else %}
-              <img src="{{ '/assets/images/herramientas/default.png' | relative_url }}"
+              <img src="{{ '/assets/img/logo-avatar.jpeg' | relative_url }}"
                    alt="Logo no disponible" loading="lazy">
             {% endif %}
           </div>
