@@ -115,3 +115,103 @@
   - ethical bias
   homepage: 'https://github.com/SOM-Research/imagebite'
   docs_url: 'https://github.com/SOM-Research/imagebite'
+
+- nombre: AccessibilityRemediation
+  nodo_id: UMA
+  url: https://github.com/CarlaFernandez12/accessibility
+  description: Herramienta para remediación de problemas de accesibilidad Web en aplicaciones Web estáticas y aplicaciones Angular y React.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - python
+  - javascript
+  topics:
+  - accesibility
+  - WCAG
+  - web applications
+  homepage: 'https://github.com/CarlaFernandez12/accessibility'
+  docs_url: 'https://github.com/CarlaFernandez12/accessibility/blob/main/README.md'
+- nombre: ChatUniTest variant (maven plugin)
+  nodo_id: UMA
+  url: https://github.com/NEO-Research-Group/chatunitest-maven-plugin
+  description: Plugin de maven para generación autmática de casos de prueba basados en LLMs
+  tipo: plugin de maven
+  licencia: GPL-3.0
+  lenguajes:
+  - java
+  topics:
+  - test case generation
+  - LLMs
+  homepage: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin'
+  docs_url: 'https://github.com/NEO-Research-Group/chatunitest-maven-plugin/blob/main/README.md'  
+- nombre: Refactorización con SLMs
+  nodo_id: UMA
+  url: https://github.com/NEO-Research-Group/slm-refactorization
+  description: Herramienta para eliminación de issues de SonarQube usando Small Langauge Models.
+  tipo: herramienta
+  licencia: GPL-3.0
+  lenguajes:
+  - python
+  topics:
+  - refactoring
+  - SLMs
+  homepage: 'https://github.com/NEO-Research-Group/slm-refactorization'
+  docs_url: 'https://github.com/NEO-Research-Group/slm-refactorization/blob/main/README.md'   
+
+- nombre: MOILP-ASCCR
+  nodo_id: UMA
+  url: https://github.com/anhe2p9/MOILP-ASCCR  
+  descripcion: Herramienta Python para la reducción de la complejidad cognitiva de código fuente.
+  tipo: herramienta
+  licencia: AGPL-3.0
+  lenguajes:
+  - Python
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/anhe2p9/MOILP-ASCCR'
+  docs_url: 'https://github.com/anhe2p9/MOILP-ASCCR/blob/main/README.md'
+- nombre: CC-reduction-by-merging-nested-conditional
+  nodo_id: UMA
+  url: https://github.com/alers16/CC-reduction-by-merging-nested-conditional  
+  descripcion: Prototipo software que detecta y combina sentencias condicionales anidadas en Java para reducir la complejidad cognitiva del código fuente
+  tipo: herramienta
+  licencia: MIT
+  lenguajes:
+  - Java
+  - PowerShell
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional'
+  docs_url: 'https://github.com/alers16/CC-reduction-by-merging-nested-conditional/blob/main/README.md'
+- nombre: automated-refactoring-java-code
+  nodo_id: UMA
+  url: https://github.com/andyjuarez-dev/automated-refactoring-java-code  
+  descripcion: Herramienta de refactorización automática para código Java construida sobre la API JDT de Eclipse. El enfoque propuesto transforma estructuras de control que contienen sentencias break y continue dentro de diferentes tipos de bucles en construcciones semánticamente equivalentes que evitan su uso explícito.
+  tipo: Plugin de Eclipse
+  licencia: MIT
+  lenguajes:
+  - Java
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
+  docs_url: 'https://github.com/andyjuarez-dev/automated-refactoring-java-code'
+- nombre: CCR-Refactorer
+  nodo_id: UMA
+  url: https://github.com/MVCx9/Refactorer  
+  descripcion: Plugin de Eclipse para la reducción de la complejidad cognitiva de código fuente mediante operaciones del tipo Extract Method.
+  tipo: Plugin de Eclipse
+  licencia: MIT
+  lenguajes:
+  - Java
+  topics:
+  - software cognitive complexity
+  - mantainability
+  - refactoring
+  homepage: 'https://github.com/MVCx9/Refactorer'
+  docs_url: 'https://github.com/MVCx9/Refactorer/blob/main/README.md'
